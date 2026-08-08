@@ -1,0 +1,49 @@
+<svg width="1200" height="500" viewBox="0 0 1200 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="tab" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0A84FF"/>
+      <stop offset="100%" stop-color="#64D2FF"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="500" rx="36" fill="#0D1117"/>
+
+  <path d="M72 126C72 107.222 87.2223 92 106 92H325L379 136H1094C1112.78 136 1128 151.222 1128 170V404C1128 425.539 1110.54 443 1089 443H111C89.4609 443 72 425.539 72 404V126Z" fill="#161B22" stroke="#30363D" stroke-width="2"/>
+
+  <path d="M106 92H318C330 92 338 96 346 104L379 136H72V126C72 107.222 87.2223 92 106 92Z" fill="url(#tab)"/>
+
+  <rect x="101" y="108" width="34" height="34" rx="10" fill="white" fill-opacity="0.18"/>
+  <path d="M111 121H125" stroke="white" stroke-width="3.2" stroke-linecap="round"/>
+  <path d="M111 128H129" stroke="white" stroke-width="3.2" stroke-linecap="round"/>
+
+  <text x="150" y="130" fill="white" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="800">About Me</text>
+
+  <text x="116" y="200" fill="#F0F6FC" font-family="Inter, Arial, sans-serif" font-size="25" font-weight="800">
+    Web Engineer focused on useful digital systems.
+  </text>
+
+  <text x="116" y="244" fill="#C9D1D9" font-family="Inter, Arial, sans-serif" font-size="18">
+    <tspan x="116" dy="0">I build modern websites, internal systems, web applications, automation,</tspan>
+    <tspan x="116" dy="28">and search-driven digital experiences.</tspan>
+  </text>
+
+  <text x="116" y="319" fill="#C9D1D9" font-family="Inter, Arial, sans-serif" font-size="18">
+    <tspan x="116" dy="0">Currently exploring the intersection of Web Engineering × SEO × AI Automation,</tspan>
+    <tspan x="116" dy="28">turning business requirements into systems that are maintainable, measurable, and pleasant to use.</tspan>
+  </text>
+
+  <rect x="116" y="382" width="197" height="36" rx="18" fill="#21262D"/>
+  <text x="214.5" y="405" text-anchor="middle" fill="#C9D1D9" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700">Laravel · PHP · JavaScript</text>
+
+  <rect x="326" y="382" width="162" height="36" rx="18" fill="#0C2D4F"/>
+  <text x="407" y="405" text-anchor="middle" fill="#58A6FF" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700">SEO · Analytics</text>
+
+  <rect x="501" y="382" width="176" height="36" rx="18" fill="#2A2139"/>
+  <text x="589" y="405" text-anchor="middle" fill="#C4B5FD" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700">AI · Automation</text>
+
+  <rect x="788" y="182" width="286" height="174" rx="26" fill="#0D1117" stroke="#30363D"/>
+  <text x="818" y="218" fill="#8B949E" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="800" letter-spacing="1.5">CURRENTLY INTO</text>
+  <text x="818" y="256" fill="#F0F6FC" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="800">Web × Search × AI</text>
+  <text x="818" y="291" fill="#8B949E" font-family="Inter, Arial, sans-serif" font-size="15">Useful products. Cleaner systems.</text>
+  <text x="818" y="319" fill="#8B949E" font-family="Inter, Arial, sans-serif" font-size="15">Less repetitive work.</text>
+</svg>
