@@ -5,34 +5,53 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:07111F,45:0B3B66,100:0A66C2&text=KATON%20FAJAR%20UTOMO&fontColor=FFFFFF&fontSize=38&fontAlignY=38&desc=Web%20Engineer%20%C3%97%20SEO%20%C3%97%20Digital%20Systems&descAlignY=58&descSize=17&animation=fadeIn" alt="Katon Fajar Utomo" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-bento-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-bento-light.svg">
+  <img alt="Katon Fajar Utomo — Web Engineer × SEO × Digital Systems" src="./assets/header-bento-light.svg" width="100%">
+</picture>
 
-<p>
-  <strong>Laravel · SEO · Automation · Web Apps</strong>
-</p>
+<br>
 
-<p>
-  <a href="https://katonfajar.com/id">
-    <img src="https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
-  </a>
-  <a href="https://www.linkedin.com/in/katon-fajar-utomo-900a5521a">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/katonfjrr">
-    <img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://katonfajar.com/id/kontak">
-    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email / Contact" />
-  </a>
-</p>
+<a href="https://katonfajar.com/id"><img src="https://img.shields.io/badge/Website-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"></a><a href="https://www.linkedin.com/in/katon-fajar-utomo-900a5521a"><img src="https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a><a href="https://instagram.com/katonfjrr"><img src="https://img.shields.io/badge/Instagram-111827?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a><a href="https://katonfajar.com/id/kontak"><img src="https://img.shields.io/badge/Contact-111827?style=flat-square&logo=gmail&logoColor=white" alt="Contact"></a>
 
 </div>
+
+<br>
+
+<!-- Contribution snake intentionally placed directly below identity -->
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/katonfajar123/katonfajar123/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/katonfajar123/katonfajar123/output/github-snake.svg">
+  <img alt="Katon Fajar contribution snake" src="https://raw.githubusercontent.com/katonfajar123/katonfajar123/output/github-snake.svg" width="100%">
+</picture>
+
+</div>
+
+<br>
+
+<!-- Contribution activity graph -->
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=katonfajar123&bg_color=0D1117&color=8B949E&line=58A6FF&point=F0F6FC&area=true&area_color=1F6FEB&hide_border=true&radius=16&custom_title=Contribution%20Activity">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=katonfajar123&bg_color=FFFFFF&color=6B7280&line=0A84FF&point=111827&area=true&area_color=DCEEFF&hide_border=true&radius=16&custom_title=Contribution%20Activity">
+  <img alt="Katon Fajar GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=katonfajar123&bg_color=FFFFFF&color=6B7280&line=0A84FF&point=111827&area=true&area_color=DCEEFF&hide_border=true&radius=16&custom_title=Contribution%20Activity" width="100%">
+</picture>
+
+</div>
+
+<br>
 
 About Me
 
 I'm a Web Engineer focused on building modern websites, internal systems, web applications, automation, and search-driven digital experiences.
 
-I enjoy working at the intersection of Web Engineering × SEO × AI Automation, turning business requirements into systems that are useful, maintainable, measurable, and actually pleasant to use.
+I enjoy working at the intersection of Web Engineering × SEO × AI Automation, turning business requirements into systems that are useful, maintainable, measurable, and pleasant to use.
 
 Building websites, internal systems, and custom web applications
 
@@ -49,32 +68,22 @@ What I Build
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌐 Modern Websites</h3>
+      <h3>Modern Websites</h3>
       <p>Fast, structured, responsive websites built around content, performance, usability, and search visibility.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>⚙️ Internal Systems</h3>
+      <h3>Internal Systems</h3>
       <p>Operational tools, CRM workflows, dashboards, admin systems, and business-specific digital processes.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📱 Web Applications</h3>
+      <h3>Web Applications</h3>
       <p>Custom applications with structured data, authentication, workflows, integrations, and maintainable interfaces.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 Automation Tools</h3>
-      <p>Workflow automation, validation, integrations, repetitive-task reduction, and AI-assisted operations.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔎 SEO & Analytics</h3>
-      <p>Technical SEO, content structure, Search Console, analytics, tracking, and search-driven improvement.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>☁️ Infrastructure</h3>
-      <p>Deployment, DNS, caching, VPS/cloud environments, source control, and practical web operations.</p>
+      <h3>Automation & Search</h3>
+      <p>Technical SEO, analytics, AI-assisted workflows, validation, integrations, and repetitive-task reduction.</p>
     </td>
   </tr>
 </table>
@@ -85,36 +94,36 @@ Working Stack
   <tr>
     <td width="18%"><strong>BUILD</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=laravel,php,js,mysql&theme=dark" height="42" alt="Laravel, PHP, JavaScript, MySQL" />
-      <br />
+      <img src="https://skillicons.dev/icons?i=laravel,php,js,mysql&theme=dark" height="42" alt="Laravel, PHP, JavaScript, MySQL">
+      <br>
       <sub>Laravel · PHP · JavaScript · MySQL</sub>
     </td>
   </tr>
   <tr>
     <td><strong>DESIGN</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=figma,ai,ps&theme=dark" height="42" alt="Figma, Illustrator, Photoshop" />
-      <br />
+      <img src="https://skillicons.dev/icons?i=figma,ai,ps&theme=dark" height="42" alt="Figma, Illustrator, Photoshop">
+      <br>
       <sub>Figma · Illustrator · Photoshop</sub>
     </td>
   </tr>
   <tr>
     <td><strong>VISIBILITY</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/SEMrush-FF642D?style=flat-square&logo=semrush&logoColor=white" alt="SEMrush" />
-      <img src="https://img.shields.io/badge/Search_Console-458CF5?style=flat-square&logo=google-search-console&logoColor=white" alt="Google Search Console" />
-      <img src="https://img.shields.io/badge/Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white" alt="Google Analytics" />
-      <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
-      <br />
+      <img src="https://img.shields.io/badge/SEMrush-FF642D?style=flat-square&logo=semrush&logoColor=white" alt="SEMrush">
+      <img src="https://img.shields.io/badge/Search_Console-458CF5?style=flat-square&logo=google-search-console&logoColor=white" alt="Google Search Console">
+      <img src="https://img.shields.io/badge/Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white" alt="Google Analytics">
+      <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress">
+      <br>
       <sub>SEMrush · Search Console · Analytics · WordPress</sub>
     </td>
   </tr>
   <tr>
     <td><strong>OPS</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=github,gcp,cloudflare&theme=dark" height="42" alt="GitHub, Google Cloud, Cloudflare" />
-      <img src="https://img.shields.io/badge/Oracle-Compute-F80000?style=flat-square&logo=oracle&logoColor=white" height="28" alt="Oracle Compute" />
-      <br />
+      <img src="https://skillicons.dev/icons?i=github,gcp,cloudflare&theme=dark" height="42" alt="GitHub, Google Cloud, Cloudflare">
+      <img src="https://img.shields.io/badge/Oracle-Compute-F80000?style=flat-square&logo=oracle&logoColor=white" height="28" alt="Oracle Compute">
+      <br>
       <sub>GitHub · Cloudflare · Google Cloud · Oracle</sub>
     </td>
   </tr>
@@ -157,42 +166,18 @@ Selected Work
   <a href="https://katonfajar.com/id/proyek"><strong>View more projects →</strong></a>
 </div>
 
-GitHub Activity
+<br>
 
 <div align="center">
 
-<a href="https://github.com/katonfajar123">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=katonfajar123&bg_color=0D1117&color=8B949E&line=2F81F7&point=FFFFFF&area=true&area_color=1F6FEB&hide_border=true&custom_title=Katon%27s%20Contribution%20Activity" alt="Katon Fajar GitHub Activity Graph" />
-</a>
+<strong>Building useful things for the web.</strong>
 
-</div>
+<br><br>
 
-Contribution Snake
+<a href="https://katonfajar.com/id">katonfajar.com</a>
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/katonfajar123/katonfajar123/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/katonfajar123/katonfajar123/output/github-snake.svg" />
-  <img alt="Katon Fajar contribution snake" src="https://raw.githubusercontent.com/katonfajar123/katonfajar123/output/github-snake.svg" />
-</picture>
-
-</div>
-
-<div align="center">
-
-Building useful things for the web.
-
-<a href="https://katonfajar.com/id">
-  <strong>katonfajar.com</strong>
-</a>
-
-<br /><br />
+<br>
 
 <sub>Web Engineering · SEO · Automation · Digital Systems</sub>
-
-<br />
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:07111F,45:0B3B66,100:0A66C2&section=footer" alt="" />
 
 </div>
