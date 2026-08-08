@@ -47,21 +47,13 @@
 
 <br>
 
-About Me
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/about-folder-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/about-folder-light.svg">
+  <img alt="About Katon Fajar Utomo" src="./assets/about-folder-light.svg" width="100%">
+</picture>
 
-I'm a Web Engineer focused on building modern websites, internal systems, web applications, automation, and search-driven digital experiences.
-
-I enjoy working at the intersection of Web Engineering × SEO × AI Automation, turning business requirements into systems that are useful, maintainable, measurable, and pleasant to use.
-
-Building websites, internal systems, and custom web applications
-
-Working with Laravel, PHP, JavaScript, MySQL, and WordPress
-
-Connecting SEO, analytics, automation, and technical implementation
-
-Exploring practical AI-assisted workflows and system automation
-
-I like digital products that do more than look good. They should solve a real problem, reduce friction, and make the next step obvious.
+<br>
 
 What I Build
 
