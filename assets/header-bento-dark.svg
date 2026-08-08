@@ -1,0 +1,45 @@
+<svg width="1200" height="430" viewBox="0 0 1200 430" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0A84FF"/>
+      <stop offset="100%" stop-color="#64D2FF"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="430" rx="34" fill="#0D1117"/>
+
+  <rect x="28" y="28" width="730" height="374" rx="30" fill="#161B22" stroke="#30363D"/>
+  <rect x="786" y="28" width="386" height="172" rx="30" fill="#161B22" stroke="#30363D"/>
+  <rect x="786" y="228" width="179" height="174" rx="30" fill="#161B22" stroke="#30363D"/>
+  <rect x="993" y="228" width="179" height="174" rx="30" fill="#161B22" stroke="#30363D"/>
+
+  <rect x="68" y="72" width="72" height="72" rx="20" fill="url(#accent)"/>
+  <path d="M89 110H119" stroke="white" stroke-width="6" stroke-linecap="round"/>
+  <path d="M104 95V125" stroke="white" stroke-width="6" stroke-linecap="round"/>
+
+  <text x="68" y="190" fill="#8B949E" font-family="Inter, Arial, sans-serif" font-size="21" font-weight="600" letter-spacing="2">HELLO, I'M</text>
+  <text x="68" y="244" fill="#F0F6FC" font-family="Inter, Arial, sans-serif" font-size="48" font-weight="800">Katon Fajar Utomo</text>
+  <text x="68" y="288" fill="#C9D1D9" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="500">Web Engineer × SEO × Digital Systems</text>
+  <text x="68" y="330" fill="#8B949E" font-family="Inter, Arial, sans-serif" font-size="18">Building useful websites, internal systems &amp; automation.</text>
+  <text x="68" y="351" fill="#8B949E" font-family="Inter, Arial, sans-serif" font-size="18">Search-driven digital experiences.</text>
+
+  <rect x="68" y="362" width="155" height="28" rx="17" fill="#0C2D4F"/>
+  <text x="145.5" y="381" text-anchor="middle" fill="#58A6FF" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700">katonfajar.com</text>
+
+  <text x="824" y="75" fill="#8B949E" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="1.8">CURRENT FOCUS</text>
+  <text x="824" y="116" fill="#F0F6FC" font-family="Inter, Arial, sans-serif" font-size="27" font-weight="800">Web × Search × AI</text>
+  <text x="824" y="151" fill="#8B949E" font-family="Inter, Arial, sans-serif" font-size="16">Laravel · SEO · Automation</text>
+
+  <text x="818" y="275" fill="#8B949E" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.5">BUILD</text>
+  <text x="818" y="311" fill="#F0F6FC" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="800">Laravel</text>
+  <text x="818" y="342" fill="#8B949E" font-family="Inter, Arial, sans-serif" font-size="15">PHP · JS</text>
+  <circle cx="824" cy="369" r="7" fill="#FF453A"/>
+  <circle cx="847" cy="369" r="7" fill="#FF9F0A"/>
+  <circle cx="870" cy="369" r="7" fill="#30D158"/>
+
+  <text x="1025" y="275" fill="#8B949E" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.5">SYSTEMS</text>
+  <text x="1025" y="311" fill="#F0F6FC" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="800">Automation</text>
+  <text x="1025" y="342" fill="#8B949E" font-family="Inter, Arial, sans-serif" font-size="15">CRM · Ops</text>
+  <rect x="1025" y="360" width="110" height="24" rx="12" fill="#21262D"/>
+  <text x="1080" y="376" text-anchor="middle" fill="#C9D1D9" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700">Indonesia · UTC+7</text>
+</svg>
