@@ -8,68 +8,11 @@
 <!-- HEADER                                                -->
 <!-- ===================================================== -->
 
-<table>
-<tr>
-<td width="65%" valign="top">
-
-<h1>Katon Fajar Utomo</h1>
-
-<h3>Web Engineer × SEO × Digital Systems</h3>
-
-<p>
-Building modern websites, internal systems, web applications,
-automation tools, and search-driven digital experiences.
-</p>
-
-<p>
-<strong>Laravel · SEO · Automation · Web Apps</strong>
-</p>
-
-</td>
-
-<td width="35%" valign="top">
-
-<h4>◉ CURRENT FOCUS</h4>
-
-<h3>Web × Search × AI</h3>
-
-<p>
-Laravel Development<br>
-SEO & Analytics<br>
-AI Automation
-</p>
-
-<hr>
-
-<sub>Indonesia · UTC+7</sub>
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-
-<td width="33%" valign="top">
-<strong>BUILD</strong><br><br>
-<b>Laravel</b><br>
-<sub>PHP · JavaScript · MySQL</sub>
-</td>
-
-<td width="33%" valign="top">
-<strong>VISIBILITY</strong><br><br>
-<b>SEO & Analytics</b><br>
-<sub>Search · Content · Data</sub>
-</td>
-
-<td width="33%" valign="top">
-<strong>SYSTEMS</strong><br><br>
-<b>Automation</b><br>
-<sub>CRM · Workflow · AI</sub>
-</td>
-
-</tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-bento-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-bento-light.svg">
+  <img alt="Katon Fajar Header" src="assets/header-bento-light.svg">
+</picture>
 
 <br>
 
@@ -112,108 +55,11 @@ AI Automation
 <!-- ABOUT ME                                              -->
 <!-- ===================================================== -->
 
-<table>
-<tr>
-<td width="30%">
-<strong>📁 &nbsp; ABOUT ME</strong>
-</td>
-<td width="70%"></td>
-</tr>
-</table>
-
-<table>
-<tr>
-
-<td width="67%" valign="top">
-
-<h2>Building useful things for the web.</h2>
-
-<p>
-I'm <strong>Katon Fajar Utomo</strong>, a Web Engineer working across
-<strong>Web Engineering, SEO, Digital Systems, and Automation</strong>.
-</p>
-
-<p>
-I build modern websites, internal systems, web applications,
-automation tools, and search-driven digital experiences.
-</p>
-
-<p>
-My current focus is connecting
-<strong>Laravel development, SEO, analytics, and AI-assisted automation</strong>
-into systems that are useful, maintainable, measurable, and pleasant to use.
-</p>
-
-<p>
-<code>Laravel</code>
-<code>PHP</code>
-<code>JavaScript</code>
-<code>MySQL</code>
-</p>
-
-<p>
-<code>SEO</code>
-<code>Analytics</code>
-<code>WordPress</code>
-<code>Automation</code>
-</p>
-
-</td>
-
-<td width="33%" valign="top">
-
-<h4>CURRENTLY INTO</h4>
-
-<h3>Web × Search × AI</h3>
-
-<p>
-Useful products.<br>
-Cleaner systems.<br>
-Less repetitive work.
-</p>
-
-<hr>
-
-<h4>WHAT I DO</h4>
-
-<p>
-Modern Websites<br>
-Internal Systems<br>
-Web Applications<br>
-SEO & Analytics<br>
-Automation
-</p>
-
-</td>
-
-</tr>
-</table>
-
-<table>
-<tr>
-
-<td width="25%" align="center">
-<strong>BUILD</strong><br>
-<sub>Laravel · PHP · JS</sub>
-</td>
-
-<td width="25%" align="center">
-<strong>SEARCH</strong><br>
-<sub>SEO · Analytics</sub>
-</td>
-
-<td width="25%" align="center">
-<strong>SYSTEMS</strong><br>
-<sub>CRM · Web Apps</sub>
-</td>
-
-<td width="25%" align="center">
-<strong>AUTOMATE</strong><br>
-<sub>AI · Workflow</sub>
-</td>
-
-</tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/about-folder-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/about-folder-light.svg">
+  <img alt="Katon Fajar About Me" src="assets/about-folder-light.svg">
+</picture>
 
 <br>
 
